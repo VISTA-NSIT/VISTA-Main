@@ -19,4 +19,4 @@ This is a code for the paper titled
   - **Wikipedia_Mining_Graph_Build** : This folder contains the code to build a graph of words from a given set of core learning points using wikipedia
   
 ## Apk Link
-https://drive.google.com/file/d/1DhmFWpjV2URrYBXLhX2saFPn46DSYtYV/view?usp=sharing
+https://drive.google.com/file/d/1YhsbtfjOQopNwS900lf65382-NpufTEE/view?usp=sharing
